@@ -1,0 +1,12 @@
+
+#time{ 
+    display: flex;
+    background-color: orange;
+    border: 10px;
+    justify-content: space-around;
+};
+
+.stylechoice{
+    display: flex;
+    flex-direction: column;
+}
